@@ -27,5 +27,13 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braiansmarzaro/create-db-schema.git"
+  },
+  "homepage": "https://github.com/braiansmarzaro/create-db-schema#readme",
+  "bugs": {
+    "url": "https://github.com/braiansmarzaro/create-db-schema/issues"
   }
 }
