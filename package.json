@@ -1,6 +1,6 @@
 {
   "name": "create-db-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to connect to your PostgreSQL database and generate a DBML schema file",
   "keywords": [
     "postgres",
@@ -14,7 +14,6 @@
   "author": "Deivid Smarzaro",
   "type": "module",
   "main": "main.js",
-
   "files": [
     "lib/",
     "main.js"
